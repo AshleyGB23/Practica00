@@ -1,0 +1,29 @@
+h1 {
+    color:#CD5C5C;
+    background-color: #E0FFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+    height: 100px;
+}
+body{
+    background-color: #FFE4C4;
+}
+.hobbies{
+    width: 35%;
+    background-color: #B0E0E6;
+}
+ .hobbies .datos{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+.hobbies .datos h2{
+    font-size: 35px;
+ }
+
+ .hobbies .datos li{
+    font-size: 25px;
+    list-style-type: square;
+ }
